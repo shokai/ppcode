@@ -1,6 +1,6 @@
 ppcode
 ======
-incremental code prettify
+incremental pretty-print
 
 - http://shokai.github.io/ppcode
 
